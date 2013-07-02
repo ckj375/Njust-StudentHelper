@@ -1,0 +1,6 @@
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/ic_action_search_down" android:state_expanded="true"></item>
+    <item android:drawable="@drawable/ic_action_search"></item>
+
+</selector>
