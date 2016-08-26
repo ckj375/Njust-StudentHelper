@@ -1,0 +1,110 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#DCDCDC"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#DEB887"
+        android:gravity="center"
+        android:text="@string/grade"
+        android:textColor="#000000"
+        android:textSize="40dp" />
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tv1"
+        android:background="#808080" />
+
+    <TableLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="140dip" >
+
+        <!-- 输入学号 -->
+
+        <TableRow android:gravity="center" >
+
+            <EditText
+                android:id="@+id/username"
+                android:layout_width="200dip"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_edittext"
+                android:hint="学  号"
+                android:inputType="number" />
+        </TableRow>
+
+        <!-- 输入密码 -->
+
+        <TableRow android:gravity="center" >
+
+            <EditText
+                android:id="@+id/password"
+                android:layout_width="200dip"
+                android:layout_height="40dp"
+                android:background="@drawable/bg_edittext"
+                android:hint="密 码"
+                android:password="true" />
+        </TableRow>
+
+        <!-- 定义登录按钮的行 -->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal" >
+
+            <Button
+                android:id="@+id/bnLogin"
+                android:layout_width="200dp"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="@string/login"
+                android:textSize="20sp" />
+        </LinearLayout>
+
+        <!-- 记住帐号和密码 -->
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:paddingTop="10dp" >
+
+            <CheckBox
+                android:id="@+id/checkbox"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bn_check"
+                android:button="@null" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/remebername"
+                android:textColor="#000000"
+                android:textSize="17sp" />
+
+            <CheckBox
+                android:id="@+id/checkbox2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/bn_check"
+                android:button="@null" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/remeberpass"
+                android:textColor="#000000"
+                android:textSize="16sp" />
+        </LinearLayout>
+    </TableLayout>
+
+</RelativeLayout>

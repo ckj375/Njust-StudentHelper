@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list1">
+        <item>软件设置</item>
+    </string-array>
+    <dimen name="padding_large">16dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <string name="about">关于信息</string>
+    <string name="app_name">南理工学生助手</string>
+    <string name="bt0">本学期成绩</string>
+    <string name="bt1">通识教育课</string>
+    <string name="bt2">学科教育课</string>
+    <string name="bt3">专业基础课</string>
+    <string name="bt4">专业方向课</string>
+    <string name="bt5">专业选修课</string>
+    <string name="bt6">人文素质课</string>
+    <string name="bt7">科学素质课</string>
+    <string name="bt8">外国语言课</string>
+    <string name="classroom">教  室</string>
+    <string name="copyright">版本信息</string>
+    <string name="exit">退出</string>
+    <string name="grade">成  绩</string>
+    <string name="hint">请输入您的反馈或建议，非常感谢！</string>
+    <string name="login">登  录</string>
+    <string name="mygrade">我的成绩</string>
+    <string name="myschedule">我的课表</string>
+    <string name="remebername">记住学号</string>
+    <string name="remeberpass">记住密码</string>
+    <string name="room">njust自习室推荐</string>
+    <string name="schedule">课  表</string>
+    <string name="send">发送</string>
+    <string name="set">设  置</string>
+    <string name="soft_update_cancel">取消</string>
+    <string name="soft_update_info">检测到新版本，立即更新吗</string>
+    <string name="soft_update_later">稍后再说</string>
+    <string name="soft_update_no">已经是最新版本</string>
+    <string name="soft_update_title">软件更新</string>
+    <string name="soft_update_updatebtn">立即更新</string>
+    <string name="soft_updating">正在更新</string>
+    <string name="suggestion">反馈意见</string>
+    <string name="title">njust每周自习室</string>
+    <string name="update">更新</string>
+    <style name="AppTheme" parent="android:Theme.Light"/>
+</resources>

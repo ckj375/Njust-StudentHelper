@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/chenkaijian/桌面/NjustClassroom/app/libs/jsoup-1.7.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="99351550d1fa2e8147319dbafd3f3a79d4f4c6e5">
+        <dex dex="/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/pre-dexed/debug/jsoup-1.7.1_e1437ef7ce7351a40a0132632e1fa0e4d9f7c8bf.jar" />
+    </item>
+    <item
+        jar="/home/chenkaijian/chenkaijian/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/pre-dexed/debug/support-v4-18.0.0_0e825f199da04430b3f400599dd78d6cd2e025e3.jar" />
+    </item>
+
+</items>

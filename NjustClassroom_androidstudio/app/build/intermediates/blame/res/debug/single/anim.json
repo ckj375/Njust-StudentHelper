@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/anim/push_left_out.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/anim/push_left_out.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/anim/push_left_in.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/anim/push_left_in.xml"
+    }
+]

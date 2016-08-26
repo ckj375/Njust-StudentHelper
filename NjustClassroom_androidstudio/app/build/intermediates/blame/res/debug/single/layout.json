@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/webview.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/webview.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/activity_set.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/activity_set.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/activity_myclassroom.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/activity_myclassroom.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/activity_mygrade.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/activity_mygrade.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/activity_myschedule.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/activity_myschedule.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/serverip.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/serverip.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/myschedule2.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/myschedule2.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/activity_showrooms.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/activity_showrooms.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/progress.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/progress.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/webview2.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/webview2.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/cell.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/cell.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/mygrade2.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/mygrade2.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/layout/activity_main.xml"
+    }
+]

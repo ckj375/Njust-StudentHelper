@@ -1,0 +1,99 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:1:1-48:12
+	xmlns:android
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:1:11-69
+	package
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:2:5-37
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:4:5-32
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:3:5-29
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+uses-sdk
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:6:5-8:41
+	android:targetSdkVersion
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:8:9-38
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:7:9-34
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+		INJECTED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:11:22-76
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:12:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:13:5-84
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:13:22-81
+application
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:15:5-46:19
+	android:label
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:17:9-41
+	android:icon
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.ckj.njustclassroom.MainActivity
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:25:27-74
+activity#com.ckj.njustclassroom.SetActivity
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:28:9-31:20
+	android:label
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:30:13-40
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:29:13-40
+activity#com.ckj.njustclassroom.ShowRoomsActivity
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:32:9-35:20
+	android:label
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:34:13-41
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:33:13-46
+activity#com.ckj.njustclassroom.MyScheduleActivity
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:36:9-37:20
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:36:19-53
+activity#com.ckj.njustclassroom.MyGradeActivity
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:38:19-50
+activity#com.ckj.njustclassroom.MyClassroomActivity
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:40:9-41:20
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:40:19-54
+activity#com.ckj.njustclassroom.WebViewActivity
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:42:9-43:20
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:42:19-50
+activity#com.ckj.njustclassroom.WebViewActivity2
+ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:44:9-45:20
+	android:name
+		ADDED from /home/chenkaijian/桌面/NjustClassroom/app/src/main/AndroidManifest.xml:44:19-51

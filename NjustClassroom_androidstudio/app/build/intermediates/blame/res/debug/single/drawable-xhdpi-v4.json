@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_search_down.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-xhdpi/ic_action_search_down.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_action_search.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-xhdpi/ic_action_search.png"
+    }
+]

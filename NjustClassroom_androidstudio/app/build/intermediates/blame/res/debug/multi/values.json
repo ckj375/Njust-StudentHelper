@@ -1,0 +1,769 @@
+[
+    {
+        "outputFile": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 19,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/arrays.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 58,
+                        "endLine": 5,
+                        "endColumn": 19,
+                        "endOffset": 133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 44,
+                    "endOffset": 173
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 106,
+                        "endColumn": 44,
+                        "endOffset": 146
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 178,
+                    "endColumn": 44,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 61,
+                        "endColumn": 44,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 43,
+                    "endOffset": 262
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 43,
+                        "endOffset": 56
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 267,
+                    "endColumn": 38,
+                    "endOffset": 301
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 579,
+                        "endColumn": 38,
+                        "endOffset": 613
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 306,
+                    "endColumn": 44,
+                    "endOffset": 346
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 44,
+                        "endOffset": 57
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 351,
+                    "endColumn": 37,
+                    "endOffset": 384
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 831,
+                        "endColumn": 37,
+                        "endOffset": 864
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 389,
+                    "endColumn": 37,
+                    "endOffset": 422
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 869,
+                        "endColumn": 37,
+                        "endOffset": 902
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 427,
+                    "endColumn": 37,
+                    "endOffset": 460
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 907,
+                        "endColumn": 37,
+                        "endOffset": 940
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 465,
+                    "endColumn": 37,
+                    "endOffset": 498
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 945,
+                        "endColumn": 37,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 503,
+                    "endColumn": 37,
+                    "endOffset": 536
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 37,
+                        "endOffset": 1016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 541,
+                    "endColumn": 37,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1021,
+                        "endColumn": 37,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 579,
+                    "endColumn": 37,
+                    "endOffset": 612
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 37,
+                        "endOffset": 1092
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 617,
+                    "endColumn": 37,
+                    "endOffset": 650
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1097,
+                        "endColumn": 37,
+                        "endOffset": 1130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 655,
+                    "endColumn": 37,
+                    "endOffset": 688
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1135,
+                        "endColumn": 37,
+                        "endOffset": 1168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 693,
+                    "endColumn": 42,
+                    "endOffset": 731
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1384,
+                        "endColumn": 42,
+                        "endOffset": 1422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 736,
+                    "endColumn": 42,
+                    "endOffset": 774
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 536,
+                        "endColumn": 42,
+                        "endOffset": 574
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 779,
+                    "endColumn": 35,
+                    "endOffset": 810
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 99,
+                        "endColumn": 35,
+                        "endOffset": 130
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 815,
+                    "endColumn": 38,
+                    "endOffset": 849
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 38,
+                        "endOffset": 1379
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 854,
+                    "endColumn": 49,
+                    "endOffset": 899
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1209,
+                        "endColumn": 49,
+                        "endOffset": 1254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 904,
+                    "endColumn": 38,
+                    "endOffset": 938
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 792,
+                        "endColumn": 38,
+                        "endOffset": 826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 943,
+                    "endColumn": 40,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 40,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endColumn": 43,
+                    "endOffset": 1023
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 43,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1028,
+                    "endColumn": 44,
+                    "endOffset": 1068
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1427,
+                        "endColumn": 44,
+                        "endOffset": 1467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1073,
+                    "endColumn": 44,
+                    "endOffset": 1113
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1472,
+                        "endColumn": 44,
+                        "endOffset": 1512
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1118,
+                    "endColumn": 43,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 618,
+                        "endColumn": 43,
+                        "endOffset": 657
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 41,
+                    "endOffset": 1199
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1303,
+                        "endColumn": 41,
+                        "endOffset": 1340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1204,
+                    "endColumn": 35,
+                    "endOffset": 1235
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1173,
+                        "endColumn": 35,
+                        "endOffset": 1204
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1240,
+                    "endColumn": 36,
+                    "endOffset": 1272
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 62,
+                        "endColumn": 36,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1277,
+                    "endColumn": 49,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 486,
+                        "endColumn": 49,
+                        "endOffset": 531
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 57,
+                    "endOffset": 1380
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 57,
+                        "endOffset": 328
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 1385,
+                    "endColumn": 50,
+                    "endOffset": 1431
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 388,
+                        "endColumn": 50,
+                        "endOffset": 434
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 1436,
+                    "endColumn": 50,
+                    "endOffset": 1482
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 173,
+                        "endColumn": 50,
+                        "endOffset": 219
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 1487,
+                    "endColumn": 50,
+                    "endOffset": 1533
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 50,
+                        "endOffset": 270
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 1538,
+                    "endColumn": 54,
+                    "endOffset": 1588
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 333,
+                        "endColumn": 54,
+                        "endOffset": 383
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 1593,
+                    "endColumn": 46,
+                    "endOffset": 1635
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 439,
+                        "endColumn": 46,
+                        "endOffset": 481
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 1640,
+                    "endColumn": 43,
+                    "endOffset": 1679
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1259,
+                        "endColumn": 43,
+                        "endOffset": 1298
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 1684,
+                    "endColumn": 44,
+                    "endOffset": 1724
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 662,
+                        "endColumn": 44,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 1729,
+                    "endColumn": 37,
+                    "endOffset": 1762
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 135,
+                        "endColumn": 37,
+                        "endOffset": 168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 1767,
+                    "endColumn": 57,
+                    "endOffset": 1820
+                },
+                "from": {
+                    "file": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 17,
+                        "endColumn": 58,
+                        "endOffset": 71
+                    }
+                }
+            }
+        ]
+    }
+]

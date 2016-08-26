@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_listview.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/bg_listview.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_edittext.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/bg_edittext.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/focused.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/focused.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/dian.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/dian.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/icon_selector.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/icon_selector.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/chengji.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/chengji.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/ic_action_search.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/jiaoshi.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/jiaoshi.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ckj.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/ckj.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_edittext_focused.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/bg_edittext_focused.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bn_check.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/bn_check.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/kebiao.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/kebiao.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_action_search_down.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/ic_action_search_down.png"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/bg_edittext_normal.xml",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/bg_edittext_normal.xml"
+    },
+    {
+        "merged": "/home/chenkaijian/桌面/NjustClassroom/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/shezhi.png",
+        "source": "/home/chenkaijian/桌面/NjustClassroom/app/src/main/res/drawable-hdpi/shezhi.png"
+    }
+]

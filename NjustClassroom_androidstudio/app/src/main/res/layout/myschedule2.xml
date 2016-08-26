@@ -1,0 +1,38 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#DCDCDC"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv1"
+        android:layout_width="fill_parent"
+        android:layout_height="60dp"
+        android:background="#DEB887"
+        android:gravity="center"
+        android:text="@string/schedule"
+        android:textColor="#000000"
+        android:textSize="40dp" />
+
+    <TextView
+        android:id="@+id/tv2"
+        android:layout_width="fill_parent"
+        android:layout_height="1dp"
+        android:layout_below="@+id/tv1"
+        android:background="#808080" />
+
+    <Button
+        android:id="@+id/get"
+        android:layout_width="90dp"
+        android:layout_height="54dp"
+        android:layout_below="@+id/tv2"
+        android:layout_marginTop="2dp"
+        android:text="@string/myschedule" />
+
+    <WebView
+        android:id="@+id/response"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv2" />
+
+</RelativeLayout>
